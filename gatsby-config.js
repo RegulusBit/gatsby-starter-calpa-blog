@@ -1,8 +1,8 @@
 module.exports = {
   pathPrefix: '/',
   siteMetadata: {
-    title: 'Calpa&apos;s Blog',
-    description: 'Front End Technical Blog - Calpa',
+    title: 'Lucia&apos;s Blog',
+    description: 'A blog where you can learn english',
     siteUrl: 'https://calpa.me',
     author: 'Calpa',
   },
@@ -56,8 +56,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: "Calpa's Blog",
-        short_name: 'Calpa',
+        name: "Lucia's Blog",
+        short_name: 'Lucia',
         start_url: '/',
         background_color: '#ededed',
         theme_color: '#384f7c',

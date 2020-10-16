@@ -7,7 +7,7 @@
     "theme_color": "#384f7c",
     "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
   },
-  "name": "calpa",
+  "name": "Lucia",
   "about": "/2018/05/01/about-calpa-liu/",
   "email": "calpaliu@gmail.com",
   "stats": {
@@ -15,7 +15,7 @@
     "title": "過去三十日數據",
     "description": "過去三十日數據"
   },
-  "title": "Calpa 的技術博客",
+  "title": "Lucia",
   "gitalk": {
     "repo": "calpa.github.io",
     "admin": ["calpa"],
@@ -28,49 +28,29 @@
   "License": "by",
   "friends": [
     {
-      "href": "https://www.boatsky.com/",
-      "title": "太空船博客"
+      "href": "https://www.google.com/",
+      "title": "Google"
     },
     {
-      "href": "http://blog.shanamaid.top/",
-      "title": "娜酱骑士团"
-    },
-    {
-      "href": "https://clarencec.github.io/",
-      "title": "Clarence Blog"
-    },
-    {
-      "href": "http://f2ex.cn/",
-      "title": "F2EX"
-    },
-    {
-      "href": "https://jeffjade.com/",
-      "title": "晚晴幽草轩"
-    },
-    {
-      "href": "https://macplay.github.io/",
-      "title": "MacPlay"
+      "href": "https://www.google.com/",
+      "title": "Community's website"
     }
   ],
-  "iconUrl": "https://i.imgur.com/kjt2x52.jpg",
-  "wordings": ["GatsbyJS, ReactJS", "全週期開發者"],
+  "iconUrl": "https://i.imgur.com/oz5RpuA.jpg",
+  "wordings": ["English teacher"],
   "gaTrackId": "UA-84737574-3",
   "navbarList": [
     {
-      "href": "/2018/12/24/front-end-blog-system-review-2018/",
-      "title": "網站數據"
+      "href": "/",
+      "title": "About me"
     },
     {
-      "href": "/guestbook/",
-      "title": "留言簿"
+      "href": "/",
+      "title": "Community"
     },
     {
-      "href": "/tags/",
-      "title": "Tags"
-    },
-    {
-      "href": "/2018/05/01/about-calpa-liu/",
-      "title": "關於作者"
+      "href": "/",
+      "title": "Our Story"
     }
   ],
   "redirectors": [
@@ -86,8 +66,6 @@
       "target": "/stats/"
     }
   ],
-  "zhihuUsername": "piao-xue-wu-ying",
-  "githubUsername": "calpa",
   "maxPostsInPage": 10,
   "facebook": "calpablog"
 }
